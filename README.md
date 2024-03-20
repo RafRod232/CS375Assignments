@@ -1,1 +1,1 @@
-Assignments for Machine Learning Assignments
+Assignments for Machine Learning 
